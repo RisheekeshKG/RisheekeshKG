@@ -30,9 +30,9 @@ Here are some ideas to get you started:
   Hi, I'm Risheekesh K G, AI Enthusiast from India
   <br>
   <br>
-  🔬 I'm currently working as an junior developer in PSG Team Aurora
+  🔬 I'm currently working as an senior developer in PSG Team Aurora
   <br>
-  💻 I love developing applications based on web technologies and artifical intelligence 
+  💻 I love developing applications based on Web technologies, Artifical intelligence and Robotics
   <br>
   📚 I’m currently learning Deep Learning Essentials.
   <br>
