@@ -14,7 +14,8 @@
 
 <p align="center">
   I'm a Person who Builds Cool AI Systems from India 🇮🇳 <br>
-  Senior Developer @ <b>PSG Team Aurora</b> <br>
+  <b>AI & Data Science</b>b student at PSG Institute of Technology and Applied Research, also pursuing <b>Data Science</b> studies at IIT Madras.<br>
+  Part of   <b> PSG Team Aurora (Rover Team) 🚀🌕 </b> <br>
   Passionate about <b>AI , Computer Vision, and Robotics</b> <br>
   Currently learning <b>Gpu Computing Essentials</b>
 </p>
