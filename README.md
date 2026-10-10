@@ -1,7 +1,7 @@
 <h2 align="center">Welcome to my GitHub</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;I'm+Risheekesh+K+G;AI+%7C+Web+%7C+Robotics+%7C+Computing;&center=true&size=26">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;I'm+Risheekesh+K+G;AI+%7C+Robotics+%7C+Computing;&center=true&size=26">
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 <p align="center">
   I'm a Person who Builds Cool AI Systems from India 🇮🇳 <br>
   Senior Developer @ <b>PSG Team Aurora</b> <br>
-  Passionate about <b>Web Development, AI, and Robotics</b> <br>
-  Currently learning <b>Deep Learning Essentials</b>
+  Passionate about <b>AI , Computer Vision, and Robotics</b> <br>
+  Currently learning <b>Gpu Computing Essentials</b>
 </p>
 
 ---
