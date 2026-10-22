@@ -41,6 +41,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,react,nodejs,fastapi,flask,mongodb,postgres,git,github,linux&theme=dark" alt="Tech stack" />
+  <br><br>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
 </p>
 
 ---
