@@ -1,11 +1,11 @@
-<h2 align="center">Welcome to my GitHub</h2>
+<h1 align="center">Hi there, I'm Risheekesh K G 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;I'm+Risheekesh+K+G;AI+%7C+Robotics+%7C+Computing;&center=true&size=26">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+%7C+Computer+Vision+%7C+Robotics;I+build+cool+AI+systems;Currently+learning+GPU+Computing" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRisheekeshKG%2F&countColor=%23263759">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRisheekeshKG%2F&countColor=%23263759" alt="Visitors" />
 </p>
 
 ---
@@ -13,11 +13,20 @@
 ### 👋 About Me
 
 <p align="center">
-  I'm a Person who Builds Cool AI Systems from India 🇮🇳 <br>
-  <b>AI & Data Science</b> student at PSG Institute of Technology and Applied Research, also pursuing <b>Data Science</b> studies at IIT Madras.<br>
-  Part of   <b> PSG Team Aurora (Rover Team) 🚀🌕 </b> <br>
-  Passionate about <b>AI , Computer Vision, and Robotics</b> <br>
-  Currently learning <b>Gpu Computing Essentials</b>
+  Building cool AI systems from India 🇮🇳<br>
+  <b>B.Tech AI & Data Science</b> at PSG Institute of Technology and Applied Research<br>
+  <b>BS Data Science</b> at IIT Madras<br>
+  Part of <b>PSG Team Aurora (Rover Team)</b> 🚀🌕<br>
+  Passionate about <b>AI, Computer Vision and Robotics</b><br>
+  Currently learning <b>GPU Computing Essentials</b>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,react,nodejs,fastapi,flask,mongodb,postgres,git,github,linux&theme=dark" alt="Tech stack" />
 </p>
 
 ---
@@ -25,18 +34,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="350"
-       src="https://github-readme-stats-fast.vercel.app/api?username=RisheekeshKG&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=RisheekeshKG&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RisheekeshKG&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="350"
-       src="https://github-readme-stats-fast.vercel.app/api/streak?username=RisheekeshKG&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="300"
-       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RisheekeshKG&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=RisheekeshKG&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -45,7 +48,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/risheekeshkg">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22" />
-    <b>LinkedIn</b>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
