@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td>🎓 <b>Education</b></td>
-    <td>B.Tech AI & Data Science, PSG Institute of Technology and Applied Research<br>BS Data Science, IIT Madras</td>
+    <td>B.Tech AI & Data Science - PSG Institute of Technology and Applied Research 27' <br>BS Data Science - IIT Madras 28'</td>
   </tr>
   <tr>
     <td>🚀 <b>Team</b></td>
