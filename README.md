@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Risheekesh K G 👋</h1>
+<h2 align="center">Hi there, I'm Risheekesh K G 👋</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+%7C+Computer+Vision+%7C+Robotics;I+build+cool+AI+systems;Currently+learning+GPU+Computing" alt="Typing SVG" />
@@ -12,14 +12,28 @@
 
 ### 👋 About Me
 
-<p align="center">
-  Building cool AI systems from India 🇮🇳<br>
-  <b>B.Tech AI & Data Science</b> at PSG Institute of Technology and Applied Research<br>
-  <b>BS Data Science</b> at IIT Madras<br>
-  Part of <b>PSG Team Aurora (Rover Team)</b> 🚀🌕<br>
-  Passionate about <b>AI, Computer Vision and Robotics</b><br>
-  Currently learning <b>GPU Computing Essentials</b>
-</p>
+<table align="center">
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>India 🇮🇳</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Education</b></td>
+    <td>B.Tech AI & Data Science, PSG Institute of Technology and Applied Research<br>BS Data Science, IIT Madras</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>Team</b></td>
+    <td>PSG Team Aurora (Rover Team)</td>
+  </tr>
+  <tr>
+    <td>💡 <b>Interests</b></td>
+    <td>AI · Computer Vision · Robotics</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Learning</b></td>
+    <td>GPU Computing Essentials</td>
+  </tr>
+</table>
 
 ---
 
